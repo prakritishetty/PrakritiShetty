@@ -27,12 +27,14 @@ I'm a third year undergraduate at IIT Bombay. I absolutely love the world of tec
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiShetty&layout=compact&theme=onedark)](https://github.com/PrakritiShetty/github-readme-stats)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiShetty&layout=compact&theme=onedark)](https://github.com/PrakritiShetty/github-readme-stats) -->
 
 ## Stats
 
 [![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakritiShetty&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/PrakritiShetty/)
+
+[![@prakritishetty's Holopin board](https://holopin.me/prakritishetty)](https://holopin.io/@prakritishetty)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrakritiShetty&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true)](https://github.com/PrakritiShetty/)
 
