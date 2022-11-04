@@ -34,6 +34,7 @@ I'm a third year undergraduate at IIT Bombay. I absolutely love the world of tec
 
 [![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakritiShetty&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/PrakritiShetty/)
 
+## Badges
 [![@prakritishetty's Holopin board](https://holopin.me/prakritishetty)](https://holopin.io/@prakritishetty)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrakritiShetty&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true)](https://github.com/PrakritiShetty/)
