@@ -14,19 +14,17 @@ I'm a third year undergraduate at IIT Bombay. I absolutely love the world of tec
 
 ## Languages and Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=plastic"></code>
+<code><img height="30" src="https://img.shields.io/badge/-JupyterNotebook-F37626?logo=jupyter&logoColor=white&style=plastic"></code>
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakritiShetty&layout=compact&theme=onedark)](https://github.com/PrakritiShetty/github-readme-stats) -->
