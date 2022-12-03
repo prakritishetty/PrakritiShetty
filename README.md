@@ -1,5 +1,6 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakriti Shetty!
-
+<!-- # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakriti Shetty!
+ -->
+ # Hey 👋, I'm Prakriti Shetty
 I'm a third year undergraduate at IIT Bombay. I absolutely love the world of technology and computer science. I've dabbled into web development, and I'm currently exploring the world of Machine Learning.
 
 [![LinkedIn: laxmandesai](https://img.shields.io/badge/-PrakritiShetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakriti-shetty-0533991b9/)](https://www.linkedin.com/in/prakriti-shetty-0533991b9/)
