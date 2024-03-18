@@ -1,12 +1,12 @@
 <!-- # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakriti Shetty!
  -->
  # Hey 👋, I'm Prakriti Shetty
-I'm a third year undergraduate at IIT Bombay. I absolutely love the world of technology and computer science. I've dabbled into web development, and I'm currently exploring the world of Machine Learning.
+I'm a fourth year undergraduate at IIT Bombay. I absolutely love the world of technology and computer science. I'm fairly confident in web development and currently I'm spending my time exploring the world of AI.
 
-[![LinkedIn: laxmandesai](https://img.shields.io/badge/-PrakritiShetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakriti-shetty-0533991b9/)](https://www.linkedin.com/in/prakriti-shetty-0533991b9/)
+[![LinkedIn: prakritishetty](https://img.shields.io/badge/-PrakritiShetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakriti-shetty-0533991b9/)](https://www.linkedin.com/in/prakriti-shetty-0533991b9/)
 [![GitHub PrakritiShetty](https://img.shields.io/github/followers/PrakritiShetty?label=follow&style=social)](https://github.com/PrakritiShetty)
 
-- 🌱 I’m currently self-learning Machine Learning and Data Analytics
+- 🌱 I'm loving AI more by the minute:)
 - 💬 I'm up for a discussion on anything tech anytime!
 - 📫 How to reach me: [prakritishetty02@gmail.com](mailto:prakritishetty02@gmail.com)
 - ❤️ Solving Problems!
