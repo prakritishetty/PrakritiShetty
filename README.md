@@ -1,7 +1,9 @@
 <!-- # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakriti Shetty!
  -->
  # Hey 👋, I'm Prakriti Shetty
-I'm a first year Masters in Computer Science student at the University of Massachusetts Amherst. I completed my BTech from India's most premier engineering institute, the Indian Institute of Technology Bombay. I absolutely love the world of technology and computer science, particularly its intersection with dynamic fields like healthcare and finance. I'm confident in web and app development and currently I'm spending my time finessing my skills in the world of AI.
+I'm a first year Masters in Computer Science student at the University of Massachusetts Amherst. I completed my BTech from India's most premier engineering institute, the Indian Institute of Technology Bombay. 
+
+I absolutely love the world of technology and computer science, particularly its intersection with dynamic fields like healthcare and finance. I'm confident in web and app development and currently I'm spending my time finessing my skills in the world of AI.
 
 [![LinkedIn: prakritishetty](https://img.shields.io/badge/-PrakritiShetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakriti-shetty-0533991b9/)](https://www.linkedin.com/in/prakriti-shetty-0533991b9/)
 [![GitHub PrakritiShetty](https://img.shields.io/github/followers/PrakritiShetty?label=follow&style=social)](https://github.com/PrakritiShetty)
